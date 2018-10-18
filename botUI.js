@@ -1,8 +1,8 @@
 function submit(){
 var apigClient = apigClientFactory.newClient({
-	  accessKey: 'AKIAJZTDUOPPNIYOLAQA',
-  	secretKey: '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',
-    apiKey: 'BnX0ixOnV85QlYYSByq1Ca2Bvuzwr3Dv4Ry6NIQ8'
+	  accessKey: '',
+  	secretKey: '',
+    apiKey: ''
 });
 var params = {
   // This is where any modeled request parameters should be added.
